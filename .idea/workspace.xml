@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="129936ee-b694-4464-8517-ab21ca4d130d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/Wifi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiApiDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zerobase-mission1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jy/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/ApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jy/JdbcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/JdbcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/zerobase/mission1/WifiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/test.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +145,7 @@
       <updated>1690910132321</updated>
       <workItem from="1690910135774" duration="357000" />
       <workItem from="1690910573092" duration="19243000" />
-      <workItem from="1691419561103" duration="7173000" />
+      <workItem from="1691419561103" duration="10464000" />
     </task>
     <servers />
   </component>

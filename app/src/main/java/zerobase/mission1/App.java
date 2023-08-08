@@ -8,5 +8,6 @@ public class App {
         WifiApiController wifiApiController = new WifiApiController();
         wifiApiController.setup();
         wifiApiController.batchWifiInfo();
+        wifiApiController.getData();
     }
 }

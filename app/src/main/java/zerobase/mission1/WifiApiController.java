@@ -55,8 +55,10 @@ public class WifiApiController {
         }
 
         return Objects.requireNonNull(dto).getTbPublicWifiInfo();
+    }
 
-
+    public void getData(){
+        wifiService.select();
     }
 
 }

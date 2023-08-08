@@ -126,6 +126,32 @@ public class WifiService {
 
     }
 
+    public void select(){
+        try {
+            con = DriverManager.getConnection(url, user, password);
+
+            String sql = "SELECT * FROM WIFI LIMIT 100";
+            pstmt = con.prepareStatement(sql);
+//            pstmt.setString(1, "1");
+
+            rs = pstmt.executeQuery();
+            while(rs.next()) {
+                System.out.println(rs.getString("id") + " " + rs.getString("name"));
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+
+        } finally {
+            try{
+                closeIO();
+            } catch (SQLException e) {
+                e.printStackTrace();}
+        }
+    }
+
+
+
     private void closeIO() throws SQLException {
         if (rs != null && !rs.isClosed()){
             rs.close();}
